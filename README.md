@@ -1,7 +1,7 @@
 Detailed docs can be found in paper/supplementary data [M&M]:
 
-workflow:
-1	Data Acquisition and Selection<br>
+workflow: <br>
+1	Data Acquisition and Selection <br>
 2	ChIP-seq Pipeline <br>
 3	Peak calling <br>
 4	EDA, Prediction and Visualisation of TFBMs <br>
