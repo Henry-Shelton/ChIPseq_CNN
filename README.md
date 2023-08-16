@@ -75,7 +75,7 @@ buildmodel = split data/statistics/generations/train params/output+save learned 
 
 workflow:
 ```sh
-hyperparameters.py -> definemodel.py -> buildmodel.py
+run() -> hyperparameters.py -> definemodel.py -> buildmodel.py -> trained output model + eval stats
 ```
 outputs model + eval stats:
 
