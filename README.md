@@ -3,16 +3,16 @@ Detailed docs can be found in paper/supplementary data [M&M]
 3.1	Data Acquisition and Selection<br>
 3.2	ChIP-seq Pipeline <br>
 3.3	Peak calling<br>
-3.4	EDA, Prediction and Visualisation of TFBMs
-3.5	EDA, Prediction and Visualisation of TFBMs
-3.6	CNN Data Preprocessing
-3.7	CNN Model Architecture
-3.8	Evaluation, Loss Function and Peak scoring
-3.9	CNN Training
-3.10 Hyperparameter Optimisation
-3.11 CNN Peak Calling
-3.12 Comparative Analysis
-4 RESULTS
+3.4	EDA, Prediction and Visualisation of TFBMs<br>
+3.5	EDA, Prediction and Visualisation of TFBMs<br>
+3.6	CNN Data Preprocessing<br>
+3.7	CNN Model Architecture<br>
+3.8	Evaluation, Loss Function and Peak scoring<br>
+3.9	CNN Training<br>
+3.10 Hyperparameter Optimisation<br>
+3.11 CNN Peak Calling<br>
+3.12 Comparative Analysis<br>
+4 RESULTS<br>
 
 <br>
 
