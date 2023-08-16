@@ -1,5 +1,6 @@
-# basic methodology
-
+### basic methodology
+<br>
+<br>
 ######################################################
 # [1] preprocessing data (bioinfo pipeline)
 
@@ -10,7 +11,8 @@ Use src/ scripts to QC/trim/align/sort/index -> output = .bam
 
 ## [1.1] MACS2 peakcalling (standard pipeline)
 
-
+<br>
+<br>
 ######################################################
 # [2] CNN peak calling model
 
