@@ -83,6 +83,10 @@ outputs model + eval stats:
     <img src="pics/modeloutput_evals.png">
 </p>
 
+<p align="left">
+    <img src="pics/modeltrainevalgraphs.png">
+</p>
+
 <br>
 
 ## [2.3] using trained model to predict peaks
