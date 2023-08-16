@@ -95,6 +95,10 @@ call
 python callpeaks.py
 ```
 
+<p align="left">
+    <img src="pics/peakcalling.png">
+</p>
+
 <br>
 
 ## [2.4] output processing
