@@ -1,8 +1,7 @@
-## basic methodology
+# basic methodology
 
 ######################################################
-### [1] preprocessing data (bioinfo pipeline)
-######################################################
+# [1] preprocessing data (bioinfo pipeline)
 
 requirements: samtools/bamtools/fastqc/multiqc/bowtie/macs2
 
@@ -12,8 +11,8 @@ Use src/ scripts to QC/trim/align/sort/index -> output = .bam
 ## [1.1] MACS2 peakcalling (standard pipeline)
 
 
+######################################################
 # [2] CNN peak calling model
-
 
 REQUIREMENTS.TXT for module version control/install (virtualenv)
 
@@ -87,8 +86,8 @@ python errorCall.py
 compare to traditional methods (MACS2 etc)
 
 ######################################################
-### [3] final comparisons + motif output
-######################################################
+
+# [3] final comparisons + motif output
 
 back to shell scripts
 deeptools fpr heatmap plots and profiles
