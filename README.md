@@ -50,7 +50,7 @@ python preproc.py
 ```
 
 <p align="left">
-    <img src="pics/defineHP.png">
+    <img src="pics/preproc.png">
 </p>
 
 fragments input data into label/depth/refseq data
