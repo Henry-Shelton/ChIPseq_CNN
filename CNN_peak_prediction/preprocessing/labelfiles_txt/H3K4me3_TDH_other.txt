@@ -1,0 +1,165 @@
+chr3:10,016,881-10,018,028 peakStart skeletalMuscleCtrl skeletalMuscleMD
+chr3:10,018,488-10,019,581 peakEnd skeletalMuscleCtrl skeletalMuscleMD
+chr3:10,026,696-10,028,233 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr3:10,031,006-10,049,344 peaks
+chr3:10,049,400-10,050,641 peakStart kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr3:10,050,766-10,052,000 peakEnd kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr3:10,065,853-10,067,793 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr4:7,939,129-7,940,480 peakStart kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr4:7,941,893-7,942,625 peakEnd kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr4:8,114,755-8,128,570 peakStart skeletalMuscleCtrl skeletalMuscleMD
+chr4:8,129,181-8,130,125 peakEnd skeletalMuscleCtrl skeletalMuscleMD
+chr4:8,288,863-8,423,502 peaks
+chr4:8,441,282-8,442,230 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr1:117,600,064-117,605,286 peaks kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr1:117,611,493-117,657,161 peaks
+chr1:117,663,162-117,665,971 peaks kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr1:117,707,129-117,896,036 peaks
+chr1:117,909,854-117,910,602 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr1:117,910,721-117,915,064 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr2:118,844,438-118,848,648 peaks kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr2:118,869,229-118,898,672 peaks
+chr2:119,066,850-119,069,229 peaks kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr2:119,423,137-119,514,049 peaks
+chr2:119,537,478-119,563,349 peaks
+chr2:119,591,922-119,595,091 peaks kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr2:119,597,839-119,602,480 peaks kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr2:119,603,762-119,607,364 peaks kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr2:119,612,473-119,614,372 peaks kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+
+chr11:111,410,633-111,413,120 peaks kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr11:111,422,349-111,442,538 peaks
+chr11:111,472,161-111,476,582 peaks kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr11:110,300,171-110,303,087 peaks kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr11:110,360,566-110,577,099 peaks
+chr11:110,581,197-110,585,952 peaks kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+
+chr11:110,165,756-110,168,456 peaks kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr11:110,170,992-110,196,347 peaks
+chr11:110,198,047-110,199,257 peakStart leukemiaCD19CD10BCells
+chr11:110,199,562-110,200,795 peakEnd leukemiaCD19CD10BCells
+
+chr11:101,980,369-101,983,632 peaks kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr11:102,033,896-102,125,062 peaks
+chr11:102,216,773-102,219,558 peaks kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr1:40,943,011-40,943,954 peaks kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr1:40,948,102-40,971,582 peaks
+chr1:40,973,376-40,975,628 peaks kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr1:40,996,546-40,997,011 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr1:40,204,250-40,205,156 peaks kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr1:40,287,428-40,339,085 peaks 
+chr1:40,348,629-40,349,466 peaks kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr1:40,039,180-40,043,243 peaks kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr1:40,048,607-40,092,989 peaks 
+chr1:40,136,728-40,138,679 peaks kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr1:38,061,007-38,061,976 peaks kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr1:38,065,042-38,107,932 peaks 
+chr1:38,155,047-38,155,875 peakStart kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr1:38,156,095-38,156,328 peakEnd kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr2:110,927,511-110,928,563 peakEnd skeletalMuscleCtrl skeletalMuscleMD
+chr2:110,941,614-110,959,738 peaks
+chr2:110,961,703-110,962,439 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr2:114,342,296-114,343,179 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr2:114,363,428-114,383,241 peaks
+chr2:114,383,621-114,384,394 peakStart kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr2:114,384,521-114,384,762 peakEnd kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr2:114,384,790-114,385,271 peakStart kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr2:114,385,299-114,386,054 peakEnd kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr2:119,601,182-119,604,624 peaks leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr2:119,664,907-119,944,682 peaks 
+chr2:120,122,692-120,124,178 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr2:135,597,654-135,602,206 peakEnd kidney kidneyCancer
+chr2:135,612,595-135,671,924 peaks
+chr2:135,674,690-135,675,563 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr2:135,675,651-135,676,201 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr2:135,677,039-135,679,886 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr2:136,741,412-136,742,816 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr2:136,744,631-136,755,513 peaks
+chr2:136,875,994-136,879,505 peakEnd kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr3:137,832,571-137,833,768 peakStart kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr3:137,834,608-137,835,204 peakEnd kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr3:137,837,067-137,890,479 peaks
+chr3:137,892,482-137,893,318 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr3:137,893,733-137,894,897 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr3:137,895,594-137,904,498 peaks
+chr3:137,905,339-137,905,914 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr3:137,906,790-137,908,064 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr3:141,029,647-141,030,473 peakStart kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr3:141,030,997-141,031,400 peakEnd kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr3:141,032,559-141,042,437 peaks
+chr3:141,042,749-141,043,923 peakStart kidney kidneyCancer
+chr3:141,044,471-141,046,363 peakEnd kidney kidneyCancer
+chr3:141,051,484-141,078,687 peaks
+chr3:141,122,044-141,123,595 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr3:141,123,819-141,130,409 peaks
+chr3:141,130,787-141,131,557 peakStart skeletalMuscleCtrl skeletalMuscleMD
+chr3:141,131,612-141,132,921 peakEnd skeletalMuscleCtrl skeletalMuscleMD
+chr3:141,134,338-141,147,223 peaks
+chr3:141,147,285-141,150,869 peakStart skeletalMuscleCtrl skeletalMuscleMD
+chr3:141,151,128-141,154,172 peakEnd skeletalMuscleCtrl skeletalMuscleMD
+
+chr3:141,378,124-141,379,027 peakStart kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr3:141,379,393-141,379,818 peakEnd kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr3:141,381,913-141,400,500 peaks
+chr3:141,457,854-141,458,681 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr3:145,875,719-145,878,354 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr3:145,929,938-145,965,290 peaks
+chr3:145,966,024-145,968,546 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr3:145,980,741-146,121,014 peaks
+chr3:146,258,265-146,262,015 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr4:88,893,026-88,898,271 peakStart kidney kidneyCancer
+chr4:88,898,337-88,904,789 peakEnd kidney kidneyCancer
+chr4:88,905,547-88,926,316 peaks
+chr4:88,929,693-88,932,721 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr4:89,206,286-89,207,246 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr4:89,208,454-89,220,822 peaks
+chr4:89,299,287-89,300,019 peakStart kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr4:89,300,588-89,301,103 peakEnd kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr4:89,975,814-89,978,212 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr4:89,978,347-89,980,174 peakEnd kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr4:89,984,480-90,006,399 peaks
+chr4:90,033,160-90,034,933 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+
+chr4:95,129,426-95,132,274 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr4:95,133,936-95,144,740 peaks
+chr4:95,371,441-95,372,827 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+
+chr4:100,484,194-100,485,905 peaks kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr4:100,498,865-100,529,714 peaks
+chr4:100,558,808-100,572,331 peakStart skeletalMuscleCtrl skeletalMuscleMD
+chr4:100,573,767-100,579,410 peakEnd skeletalMuscleCtrl skeletalMuscleMD
+
+chr5:1,342,537-1,344,695 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr5:1,345,702-1,347,820 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr5:1,352,139-1,378,285 peaks
+chr5:1,441,343-1,443,891 peakStart kidneyCancer
+chr5:1,446,461-1,448,364 peakEnd kidneyCancer
+
+chr5:6,375,199-6,378,249 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr5:6,378,962-6,380,007 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr5:6,384,845-6,430,942 peaks
+chr5:6,449,209-6,455,704 peakEnd kidney skeletalMuscleCtrl skeletalMuscleMD
+
+chr5:7,397,135-7,401,014 peakEnd skeletalMuscleCtrl skeletalMuscleMD
+chr5:7,417,253-7,593,074 peaks
+chr5:7,862,396-7,869,010 peakStart kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD
+chr5:7,870,003-7,872,008 peakEnd kidney kidneyCancer leukemiaCD19CD10BCells skeletalMuscleCtrl skeletalMuscleMD

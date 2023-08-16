@@ -1,0 +1,28 @@
+chr21:43,147,538-43,166,396 peakStart kidney kidneyCancer
+chr21:43,174,500-43,200,179 peakEnd kidney kidneyCancer
+chr21:43,214,142-43,223,588 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr21:43,383,101-43,401,733 peaks
+chr21:43,402,116-43,413,398 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr21:43,427,332-43,430,967 peakEnd kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+
+chr14:57,654,824-57,687,219 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr14:57,751,698-57,777,108 peakEnd kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr14:57,786,277-57,845,975 peaks
+chr14:57,854,345-57,865,405 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr14:57,876,150-57,888,296 peakEnd kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr14:57,930,152-57,946,336 peakStart kidney kidneyCancer
+chr14:57,948,078-57,974,618 peakEnd kidney kidneyCancer
+
+chr15:50,461,156-50,510,081 peakStart kidney kidneyCancer
+chr15:50,518,928-50,556,178 peakEnd kidney kidneyCancer
+chr15:50,560,732-50,582,548 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr15:50,657,302-50,678,551 peakEnd kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr15:50,680,517-50,702,839 peaks
+chr15:50,705,051-50,734,683 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr15:50,784,063-50,818,941 peakEnd kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+
+chr16:7,074,269-7,574,972 peakStart skeletalMuscleCtrl skeletalMuscleMD
+chr16:7,702,165-7,988,072 peakEnd skeletalMuscleCtrl skeletalMuscleMD
+chr16:8,000,000-8,605,744 peaks
+chr16:8,697,916-8,734,678 peakStart kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD
+chr16:9,009,378-9,103,035 peakEnd kidney kidneyCancer skeletalMuscleCtrl skeletalMuscleMD

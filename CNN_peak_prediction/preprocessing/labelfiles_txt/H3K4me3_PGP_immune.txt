@@ -1,0 +1,151 @@
+chr21:33,032,842-33,036,452 peakEnd bcell tcell mono
+chr21:33,042,577-33,066,686 peaks
+
+chr1:211,414,167-211,429,351 peaks
+chr1:211,431,189-211,435,192 peaks bcell tcell mono
+
+chr1:145,396,075-145,400,107 peaks bcell tcell mono
+chr1:145,402,199-145,425,517 peaks
+chr1:145,436,035-145,438,297 peakStart bcell tcell mono
+chr1:145,441,931-145,443,782 peakEnd bcell tcell mono
+
+chr3:20,071,788-20,078,637 peaks
+chr3:20,079,835-20,080,920 peakStart bcell tcell mono
+chr3:20,081,143-20,081,979 peakEnd bcell tcell mono
+chr3:20,082,173-20,086,127 peaks bcell tcell mono
+
+chr2:63,817,883-63,830,619 peaks
+chr2:63,814,607-63,815,162 peakStart bcell tcell mono
+chr2:63,816,166-63,816,483 peakStart bcell tcell mono
+chr2:63,816,536-63,817,461 peakEnd bcell tcell mono
+
+chr2:64,056,599-64,066,362 peaks
+chr2:64,066,598-64,071,126 peaks bcell tcell mono
+chr2:64,085,419-64,095,829 peaks
+
+chr2:175,440,249-175,452,098 peaks
+chr2:175,455,625-175,460,510 peakStart bcell tcell mono
+chr2:175,461,414-175,465,213 peakEnd bcell tcell mono
+chr2:175,469,736-175,492,529 peaks
+chr2:175,494,971-175,498,680 peakStart bcell tcell mono
+chr2:175,498,951-175,500,851 peakEnd bcell tcell mono
+
+chr2:176,017,645-176,030,354 peaks
+chr2:176,030,427-176,032,253 peakStart bcell tcell mono
+chr2:176,032,910-176,033,421 peakEnd bcell tcell mono
+chr2:176,035,756-176,044,085 peaks
+chr2:176,044,304-176,048,175 peaks bcell tcell mono
+
+chr3:23,948,659-23,955,242 peaks
+chr3:23,956,315-23,957,961 peakStart bcell tcell mono
+chr3:23,958,676-23,959,463 peakStart bcell tcell mono
+chr3:23,959,606-23,961,538 peakEnd bcell tcell mono
+chr3:23,964,257-23,979,997 peaks
+chr3:23,985,024-23,986,187 peakStart bcell tcell mono
+chr3:23,986,621-23,987,411 peakEnd bcell tcell mono
+chr3:23,987,536-23,988,140 peakStart bcell tcell mono
+chr3:23,988,187-23,989,350 peakEnd bcell tcell mono
+
+chr1:70,666,726-70,669,727 peaks
+chr1:70,669,807-70,671,167 peakStart bcell tcell mono
+chr1:70,671,208-70,671,317 peakEnd bcell tcell mono
+chr1:70,671,340-70,671,580 peakStart bcell tcell mono
+chr1:70,672,127-70,672,808 peakEnd bcell tcell mono
+chr1:70,674,168-70,684,852 peaks
+chr1:70,685,972-70,686,892 peakStart bcell tcell mono
+chr1:70,686,894-70,687,134 peakEnd bcell tcell mono
+chr1:70,687,212-70,687,692 peakStart bcell tcell mono
+chr1:70,687,733-70,691,254 peaks bcell tcell mono
+
+chr1:70,875,425-70,876,346 peakStart bcell tcell mono
+chr1:70,876,445-70,876,875 peakEnd bcell tcell mono
+chr1:70,876,875-70,877,105 peakStart bcell tcell mono
+chr1:70,877,186-70,877,951 peakEnd bcell tcell mono
+chr1:70,880,751-70,950,592 peaks
+chr1:70,953,466-70,956,090 peakStart bcell
+chr1:70,956,465-70,958,589 peakEnd bcell
+
+chr1:73,066,596-73,088,055 peaks
+chr1:73,088,717-73,089,345 peakStart mono
+chr1:73,089,354-73,089,869 peakEnd mono
+chr1:73,090,259-73,090,945 peakEnd mono
+chr1:73,092,259-73,099,916 peaks
+chr1:73,100,944-73,103,287 peaks mono
+
+chr1:75,181,868-75,187,754 peaks
+chr1:75,197,771-75,200,456 peaks bcell tcell mono
+chr1:75,201,075-75,209,646 peaks
+
+chr6:75,912,806-75,920,285 peaks bcell tcell
+chr6:75,923,671-75,946,532 peaks
+chr6:75,952,318-75,953,447 peakStart bcell tcell mono
+chr6:75,954,434-75,955,563 peakEnd bcell tcell mono
+
+chr6:75,971,031-75,980,338 peaks
+chr6:75,981,382-75,984,345 peaks mono
+chr6:75,992,066-75,993,777 peakStart bcell tcell mono
+chr6:75,994,806-75,995,098 peakStart bcell tcell mono
+chr6:75,995,405-75,996,031 peakEnd bcell tcell mono
+
+chr21:33,742,898-33,745,962 peaks mono
+chr21:33,746,643-33,761,166 peaks
+chr21:33,761,903-33,765,875 peaks bcell tcell mono
+chr21:33,765,931-33,768,087 peakEnd bcell tcell mono
+chr21:33,768,087-33,778,299 peaks bcell tcell mono
+
+chr21:34,082,946-34,090,896 peaks bcell
+chr21:34,091,985-34,097,321 peaks
+chr21:34,098,736-34,100,043 peakStart bcell tcell mono
+chr21:34,101,023-34,102,439 peakEnd bcell tcell mono
+chr21:34,102,874-34,107,230 peaks tcell
+chr21:34,113,764-34,137,612 peaks
+
+chr9:77,639,481-77,642,426 peakStart bcell tcell mono
+chr9:77,642,731-77,643,442 peakEnd bcell tcell mono
+chr9:77,643,453-77,643,859 peakStart bcell tcell mono
+chr9:77,643,865-77,644,271 peakEnd bcell tcell mono
+chr9:77,646,793-77,696,760 peaks
+chr9:77,700,720-77,702,244 peakStart bcell tcell mono
+chr9:77,703,666-77,704,376 peakStart bcell tcell mono
+chr9:77,704,383-77,707,525 peakEnd bcell tcell mono
+
+chr9:78,489,599-78,502,603 peaks
+chr9:78,503,686-78,504,900 peakStart bcell tcell mono
+chr9:78,505,247-78,506,070 peakEnd bcell tcell mono
+chr9:78,506,125-78,508,856 peaks mono tcell
+chr9:78,510,665-78,518,336 peaks
+
+chr9:78,999,205-79,005,894 peaks
+chr9:79,006,962-79,009,310 peaks bcell tcell mono
+chr9:79,009,595-79,010,164 peakStart bcell tcell mono
+chr9:79,010,167-79,011,018 peakEnd bcell tcell mono
+chr9:79,011,943-79,017,137 peaks
+chr9:79,018,276-79,019,557 peaks bcell tcell mono
+chr9:79,027,669-79,031,298 peaks bcell
+chr9:79,034,002-79,046,455 peaks
+
+chr9:112,800,441-112,808,213 peaks
+chr9:112,809,712-112,814,486 peaks bcell tcell mono
+chr9:112,826,032-112,830,584 peaks mono
+
+chr9:112,889,256-112,891,184 peaks mono
+chr9:112,892,991-112,902,145 peaks
+chr9:112,910,035-112,911,360 peakStart bcell tcell mono
+chr9:112,911,421-112,913,769 peakEnd bcell tcell mono
+chr9:112,917,805-112,921,659 peaks mono
+
+chr9:113,017,322-113,018,892 peaks bcell tcell mono
+chr9:113,018,977-113,019,341 peakStart bcell tcell mono
+chr9:113,019,509-113,020,351 peakEnd bcell tcell mono
+chr9:113,021,557-113,025,482 peaks
+
+chr9:113,698,689-113,713,433 peaks
+chr9:113,715,140-113,716,848 peakStart bcell mono
+chr9:113,719,408-113,721,504 peaks bcell mono
+chr9:113,723,987-113,740,205 peaks
+
+chr9:113,776,804-113,795,997 peaks
+chr9:113,798,285-113,799,592 peakStart mono
+chr9:113,799,686-113,800,573 peakEnd mono
+chr9:113,800,853-113,802,114 peaks mono
+chr9:113,803,048-113,807,485 peaks

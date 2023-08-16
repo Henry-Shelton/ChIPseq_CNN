@@ -1,0 +1,75 @@
+####### Added by XJ ##
+#chr22:20,007,016-20,014,039 peaks monocyte tcell bcell
+chr22:20,007,016-20,007,894 peaks
+chr22:20,008,059-20,008,478 peaks monocyte tcell bcell
+chr22:20,008,486-20,008,669 peaks
+chr22:20,008,692-20,010,084 peaks monocyte tcell bcell
+chr22:20,011,940-20,014,039 peaks
+
+#chr22:20,688,670-20,690,785 peaks monocyte tcell bcell
+chr22:20,688,670-20,689,092 peaks
+chr22:20,689,396-20,689,610 peaks monocyte tcell bcell
+chr22:20,689,893-20,690,785 peaks
+
+#chr21:33,022,160-33,047,495 peaks monocyte tcell bcell 
+chr21:33,025,596-33,031,263 peaks
+chr21:33,031,349-33,031,922 peaksStart monocyte tcell bcell
+chr21:33,031,942-33,032,247 peaksEnd monocyte tcell bcell
+chr21:33,032,568-33,034,021 peaks monocyte tcell bcell 
+chr21:33,034,841-33,035,469 peaks
+
+#chr21:33,056,450-33,155,429 peaks monocyte tcell bcell 
+chr21:33,097,887-33,101,082 peaks
+chr21:33,101,795-33,104,308 peaksStart monocyte tcell bcell
+chr21:33,104,385-33,105,934 peaksEnd monocyte tcell bcell
+chr21:33,106,016-33,108,794 peaks
+
+#chr19:21,098,335-21,109,430 peaks monocyte tcell bcell 
+chr19:21,098,335-21,104,400 peaks
+chr19:21,105,514-21,107,005 peaks monocyte tcell bcell 
+chr19:21,107,506-21,109,430 peaks
+
+#chr18:21,026,693-21,038,977 peaks monocyte tcell bcell
+chr18:21,027,603-21,031,518 peaks
+chr18:21,032,426-21,033,143 peaksStart monocyte tcell bcell
+chr18:21,033,283-21,035,031 peaksEnd monocyte tcell bcell
+chr18:21,035,506-21,038,780 peaks
+
+#chr18:105,232-114,440 peaks monocyte tcell bcell
+chr18:105,232-106,728 peaks 
+chr18:107,915-108,346 peaksStart monocyte tcell bcell
+chr18:108,359-108,629 peaksEnd monocyte tcell bcell
+chr18:110,123-111,044 peaks monocyte tcell bcell
+chr18:112,122-112,410 peaks monocyte tcell bcell
+chr18:113,093-113,585 peaks 
+
+#chr17:6,908,842-6,932,814 peaks monocyte tcell bcell
+chr17:6,908,842-6,913,819 peaks
+chr17:6,914,709-6,915,759 peaksStart monocyte tcell bcell
+chr17:6,915,770-6,917,920 peaksEnd monocyte tcell bcell
+chr17:6,927,626-6,932,814 peaks
+
+#chr16:46,861,309-46,868,288 peaks monocyte tcell bcell
+chr16:46,861,309-46,862,948 peaks
+chr16:46,863,428-46,865,716 peaks monocyte tcell bcell
+chr16:46,866,454-46,868,288 peaks
+
+#chr15:32,899,289-32,927,245 peaks monocyte tcell bcell
+chr15:32,899,289-32,905,506 peaks
+chr15:32,905,674-32,907,680 peaksStart monocyte tcell bcell
+chr15:32,907,748-32,909,282 peaksEnd monocyte tcell bcell
+chr15:32,909,415-32,913,137 peaks
+
+#chr15:29,553,162-29,573,779 peaks monocyte tcell bcell
+chr15:29,555,823-29,559,663 peaks
+chr15:29,559,682-29,562,127 peaksStart monocyte tcell bcell
+chr15:29,562,169-29,563,358 peaksEnd monocyte tcell bcell
+chr15:29,563,437-29,566,168 peaks
+
+#chr1:33,098,576-33,150,086 peaks monocyte tcell bcell
+chr1:33,111,786-33,114,894 peaks
+chr1:33,114,941-33,116,174 peaksStart monocyte tcell bcell
+chr1:33,116,183-33,116,620 peaksEnd monocyte tcell bcell
+chr1:33,116,633-33,116,755 peaks
+chr1:33,116,834-33,118,135 peaks monocyte tcell bcell
+chr1:33,118,161-33,120,163 peaks
