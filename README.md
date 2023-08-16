@@ -137,6 +137,10 @@ compare to traditional methods (MACS2 etc)
 
 # [3] final comparisons + motif output
 
+<p align="left">
+    <img src="pics/testdataeval.png">
+</p>
+
 <br>
 
 outputs:
