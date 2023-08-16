@@ -1,15 +1,11 @@
 Detailed docs can be found in paper/supplementary data [M&M]
 
-3.1	Data Acquisition and Selection
-<br>
-3.2	ChIP-seq Pipeline 
-<br>
-3.3	Peak calling
-<br>
+3.1	Data Acquisition and Selection<br>
+3.2	ChIP-seq Pipeline <br>
+3.3	Peak calling<br>
 3.4	EDA, Prediction and Visualisation of TFBMs
-<br>
 3.5	EDA, Prediction and Visualisation of TFBMs
-<br>
+
 3.6	CNN Data Preprocessing
 
 3.7	CNN Model Architecture
