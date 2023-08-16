@@ -1,7 +1,8 @@
 ### basic methodology
+
+<br>
 <br>
 
-######################################################
 # [1] preprocessing data (bioinfo pipeline)
 
 requirements: samtools/bamtools/fastqc/multiqc/bowtie/macs2
@@ -13,10 +14,12 @@ Use src/ scripts to QC/trim/align/sort/index -> output = .bam
 
 <br>
 <br>
-######################################################
+
 # [2] CNN peak calling model
 
 REQUIREMENTS.TXT for module version control/install (virtualenv)
+
+<br>
 
 ## [2.1] preprocess data for CNN
 
@@ -29,6 +32,8 @@ python preproc.py
 ```
 
 test/train data outputs
+
+<br>
 
 ## [2.2] buildmodel
 
@@ -66,6 +71,8 @@ outputs model + eval stats:
     <img src="pics/modeloutput_evals.png">
 </p>
 
+<br>
+
 ## [2.3] using trained model to predict peaks
 
 requires cythonating C files found in setup.py 
@@ -75,6 +82,8 @@ call
 ```sh
 python callpeaks.py
 ```
+
+<br>
 
 ## [2.4] output processing
 
@@ -89,6 +98,9 @@ compare to traditional methods (MACS2 etc)
 
 ######################################################
 
+<br>
+<br>
+
 # [3] final comparisons + motif output
 
 back to shell scripts
@@ -97,3 +109,5 @@ correlation metrics
 
 DREAM for motif analysis
 Read paper for more info
+
+<br>
