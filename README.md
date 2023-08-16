@@ -15,6 +15,8 @@ workflow: <br>
 12 - Comparative Analysis<br>
 RESULTS<br>
 
+-----------------------
+
 # [1] preprocessing data (bioinfo pipeline)
 
 requirements: samtools/bamtools/fastqc/multiqc/bowtie/macs2
@@ -28,7 +30,8 @@ Use src/ scripts to QC/trim/align/sort/index -> output = .bam
 <ins>!!! ChIPseq_CNN/pipeline_scripts/ 1-6 (.sh) !!!</ins>
 
 <br>
-<br>
+
+-----------------------
 
 # [2] CNN peak calling model
 
@@ -123,7 +126,8 @@ compare to traditional methods (MACS2 etc)
 ######################################################
 
 <br>
-<br>
+
+-----------------------
 
 # [3] final comparisons + motif output
 
