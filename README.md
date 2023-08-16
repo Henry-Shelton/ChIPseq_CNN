@@ -9,6 +9,7 @@ Use src/ scripts to QC/trim/align/sort/index -> output = .bam
 
 ## [1.1] MACS2 peakcalling (standard pipeline)
 
+######################################################
 
 ### [2] CNN peak calling model
 
@@ -34,8 +35,23 @@ call
 python buildmodel.py
 ```
 hyperparams = define hyperparams
+
+<p align="left">
+    <img src="pics/defineHP.png">
+</p>
+
 definemodel = model architecture
+
+<p align="left">
+    <img src="pics/definemodel.png">
+</p>
+
 buildmodel = split data/statistics/generations/train params/output+save learned weights
+
+<p align="left">
+    <img src="pics/buildmodel.png">
+</p>
+
 
 workflow:
 ```sh
