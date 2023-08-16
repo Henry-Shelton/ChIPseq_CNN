@@ -41,13 +41,19 @@ REQUIREMENTS.TXT for module version control/install (virtualenv)
 
 ## [2.1] preprocess data for CNN
 
-aligned BAM
+aligned BAM ChIP-seq
 label data
 ref seq files
 
 ```sh
 python preproc.py
 ```
+
+<p align="left">
+    <img src="pics/defineHP.png">
+</p>
+
+fragments input data into label/depth/refseq data
 
 test/train data outputs
 
