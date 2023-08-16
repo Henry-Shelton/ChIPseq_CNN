@@ -143,9 +143,9 @@ compare to traditional methods (MACS2 etc)
 
 <br>
 
-outputs:
-MACS2 .bed
-CNN .bed
+outputs: <br>
+MACS2 .bed <br>
+CNN .bed <br>
 
 <br>
 
