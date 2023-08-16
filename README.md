@@ -14,8 +14,6 @@ Detailed docs can be found in paper/supplementary data [M&M]
 3.12 Comparative Analysis<br>
 4 RESULTS<br>
 
-<br>
-
 # [1] preprocessing data (bioinfo pipeline)
 
 requirements: samtools/bamtools/fastqc/multiqc/bowtie/macs2
