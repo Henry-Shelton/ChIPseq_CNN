@@ -86,6 +86,7 @@ outputs model + eval stats:
 <p align="left">
     <img src="pics/modeltrainevalgraphs.png">
 </p>
+(unoptimised hyperparams)
 
 <br>
 
