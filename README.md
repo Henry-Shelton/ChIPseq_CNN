@@ -24,6 +24,9 @@ Use src/ scripts to QC/trim/align/sort/index -> output = .bam
 
 ## [1.1] MACS2 peakcalling (standard pipeline)
 
+
+PIPELINE_SCRIPTS\ 1-6 (.sh)
+
 <br>
 <br>
 
@@ -124,7 +127,8 @@ compare to traditional methods (MACS2 etc)
 
 # [3] final comparisons + motif output
 
-back to shell scripts
+PIPELINE SCRIPTS 7-10 (.sh)
+
 deeptools fpr heatmap plots and profiles
 correlation metrics
 
