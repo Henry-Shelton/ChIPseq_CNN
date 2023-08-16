@@ -1,6 +1,8 @@
-## Command Line Usage
+## basic methodology
 
+######################################################
 ### [1] preprocessing data (bioinfo pipeline)
+######################################################
 
 requirements: samtools/bamtools/fastqc/multiqc/bowtie/macs2
 
@@ -10,8 +12,8 @@ Use src/ scripts to QC/trim/align/sort/index -> output = .bam
 ## [1.1] MACS2 peakcalling (standard pipeline)
 
 ######################################################
-
 ### [2] CNN peak calling model
+######################################################
 
 REQUIREMENTS.TXT for module version control/install (virtualenv)
 
@@ -34,19 +36,19 @@ call
 ```sh
 python buildmodel.py
 ```
-hyperparams = define hyperparams
+hyperparams = define hyperparams:
 
 <p align="left">
     <img src="pics/defineHP.png">
 </p>
 
-definemodel = model architecture
+definemodel = model architecture:
 
 <p align="left">
     <img src="pics/definemodel.png">
 </p>
 
-buildmodel = split data/statistics/generations/train params/output+save learned weights
+buildmodel = split data/statistics/generations/train params/output+save learned weights:
 
 <p align="left">
     <img src="pics/buildmodel.png">
@@ -57,8 +59,11 @@ workflow:
 ```sh
 hyperparameters.py -> definemodel.py -> buildmodel.py
 ```
-outputs model + eval stats
+outputs model + eval stats:
 
+<p align="left">
+    <img src="pics/modeloutput_evals.png">
+</p>
 
 ## [2.3] using trained model to predict peaks
 
@@ -81,8 +86,9 @@ python errorCall.py
 ```
 compare to traditional methods (MACS2 etc)
 
-
-### [2] final comparisons + motif output
+######################################################
+### [3] final comparisons + motif output
+######################################################
 
 back to shell scripts
 deeptools fpr heatmap plots and profiles
