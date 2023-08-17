@@ -9,7 +9,7 @@ workflow: <br>
 2 -	ChIP-seq Pipeline <br>
 3 -	Peak calling <br>
 4 -	EDA, Prediction and Visualisation of TFBMs <br>
-5 -	EDA, Prediction and Visualisation of TFBMs <br>
+5 -	Functional Analysis & Motif Discovery <br>
 6 -	CNN Data Preprocessing <br>
 7 -	CNN Model Architecture <br>
 8 -	Evaluation, Loss Function and Peak scoring<br>
