@@ -1,6 +1,6 @@
-<p style="color:red">
-##[Undergoing maintenance]
-</p>
+
+##<p style="color:red">[Currently undergoing maintenance]</p>
+
 
 Detailed docs can be found in paper/supplementary data [M&M]:
 
