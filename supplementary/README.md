@@ -1,6 +1,6 @@
 
 <p align="left">
-    <img src="supplementary/pics/1.png">
+    <img src="pics/1.png">
 </p>
 
 <p align="left">
