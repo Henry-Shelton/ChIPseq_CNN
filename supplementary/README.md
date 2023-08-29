@@ -4,45 +4,45 @@
 </p>
 
 <p align="left">
-    <img src="/pics/2.png">
+    <img src="pics/2.png">
 </p>
 
 <p align="left">
-    <img src="supplementary/pics/3.png">
+    <img src="pics/3.png">
 </p>
 
 <p align="left">
-    <img src="supplementary/pics/4.png">
+    <img src="pics/4.png">
 </p>
 
 <p align="left">
-    <img src="supplementary/pics/5.png">
+    <img src="pics/5.png">
 </p>
 
 <p align="left">
-    <img src="supplementary/pics/6.png">
+    <img src="pics/6.png">
 </p>
 
 <p align="left">
-    <img src="supplementary/pics/7.png">
+    <img src="pics/7.png">
 </p>
 
 <p align="left">
-    <img src="supplementary/pics/8.png">
+    <img src="pics/8.png">
 </p>
 
 <p align="left">
-    <img src="supplementary/pics/9.png">
+    <img src="pics/9.png">
 </p>
 
 <p align="left">
-    <img src="supplementary/pics/10.png">
+    <img src="pics/10.png">
 </p>
 
 <p align="left">
-    <img src="supplementary/pics/11.png">
+    <img src="pics/11.png">
 </p>
 
 <p align="left">
-    <img src="supplementary/pics/12.png">
+    <img src="pics/12.png">
 </p>
