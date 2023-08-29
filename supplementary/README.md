@@ -1,7 +1,7 @@
 
-<p align="left">
-    <img src="pics/1.png">
-</p>
+
+<img src="pics/1.png">
+
 
 <p align="left">
     <img src="pics/2.png">
