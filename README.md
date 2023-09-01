@@ -70,10 +70,10 @@ WIP
 * The CNN scripts can be copied and individually used at each stage by running >python [script]
 * These tasks should be executed in the general order as outlined below, ensure all prerequisite data is made available and modules are loaded:
 ```
-0 - this part of the project was run virtualenv, create + activate this if required
+0 - this part of the project was run virtualenv, create + activate this if required, install requirements.txt
 0 - preproc.py, formatting.py, label_preproc.py (preprocessing scripts) <br>
-0 - hyperparameters.py (does not need to be ran - optimise these) <br>
-0 - definemodel.py (does not need to be ran) <br>
+0 - hyperparameters.py (does not need to be ran [called in buildmodel/callpeaks] - optimise as required) <br>
+0 - definemodel.py (does not need to be ran [called in buildmodel/callpeaks]) <br>
 1 -	buildmodel.py (run for training evaluation) <br>
 2 - cythonation scripts need to be ran here to link C scripts - refer to CNN_Peaks github
 3 - callpeaks.py (run for training + testing) (ensure test data is available) (may have to point directory to correct libraries if errors) <br>
