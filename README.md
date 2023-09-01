@@ -16,7 +16,7 @@ Workflow: <br>
 7 -	CNN Model Architecture - _[CNN_peak_prediction/buildmodel] **(definemodel.py)**_ <br>
 8 -	Evaluation, Loss Function and Peak scoring - _[CNN_peak_prediction/peakcalling] **(buildmodel.py)**_ <br>
 9 -	CNN Training - _[CNN_peak_prediction] **(buildmodel.py OR callpeaks.py)**_ <br>
-10 - Hyperparameter Optimisation - _[CNN_peak_prediction/buildmodel] **(hyperparameters.py)**_ <br>
+10 - Hyperparameter Optimisation -                              _[CNN_peak_prediction/buildmodel] **(hyperparameters.py)**_ <br>
 11 - CNN Peak Calling - _[CNN_peak_prediction/peakcalling] **(callpeaks.py)**_ <br>
 11.5 - Evaluation - _[CNN_peak_prediction/outputs] **(errorCall.py)**_ <br>
 12 - Comparative Analysis - _[data_folder]_ <br>
