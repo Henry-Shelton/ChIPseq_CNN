@@ -47,25 +47,25 @@ WIP
 
 ### Executing program
 
-* The ChIP-seq pipeline shell scripts are to be ran in the order as listed
-1_fetch&QC.sh, 
-1_multiqc.sh, 
-2_trim.sh, 
-3_bowtie_alignment.sh, 
-3_bt2-builder.sh, 
-5_samtools_sort_index.sh, 
-6_macs.sh, 
-7_0_deeptools_bamCoverage.sh, 
-7_1_deeptools_bamcompare_normalisation.sh, 
-7_2_1_deeptools_computematrix_normreps.sh, 
-7_2_deeptools_comparematrix.sh, 
-7_3_1_deeptools_plotprofile_NORM.sh, 
-7_3_deeptools_plotprofile.sh, 
-7_4_deeptools_headmap.sh, 
-7_5_deeptools_QC.sh, 
-7_6_2_deeptools_QC_PCR.sh, 
-7_6_deeptools_QC_plotcorrlation.sh, 
-8_motif_discovery_prep.sh
+* The ChIP-seq pipeline shell scripts are to be ran in the order as listed (they should auto order when listed by name)
+   - 1_fetch&QC.sh, 
+   - 1_multiqc.sh, 
+   - 2_trim.sh, 
+   - 3_bowtie_alignment.sh, 
+   - 3_bt2-builder.sh, 
+   - 5_samtools_sort_index.sh, 
+   - 6_macs.sh, 
+   - 7_0_deeptools_bamCoverage.sh, 
+   - 7_1_deeptools_bamcompare_normalisation.sh, 
+   - 7_2_1_deeptools_computematrix_normreps.sh, 
+   - 7_2_deeptools_comparematrix.sh, 
+   - 7_3_1_deeptools_plotprofile_NORM.sh, 
+   - 7_3_deeptools_plotprofile.sh, 
+   - 7_4_deeptools_headmap.sh, 
+   - 7_5_deeptools_QC.sh, 
+   - 7_6_2_deeptools_QC_PCR.sh, 
+   - 7_6_deeptools_QC_plotcorrlation.sh, 
+   - 8_motif_discovery_prep.sh
 
 * The CNN scripts can be copied and individually used at each stage by running >python [script]
 * These tasks should be executed in the general order as outlined below, ensure all prerequisite data is made available and modules are loaded:
