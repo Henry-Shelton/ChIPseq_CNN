@@ -6,6 +6,8 @@
 
 CNN-Peaks published model is no longer available, hindering its use as a tool for novel models to benchmark against. To try and solve this problem, I have modified the original framework down to a few python scripts for people to build form themselves. This is a "lite" version of CNN_peaks, enabling the model to run using a single Python script and allowing for complete modification of the training/test data and core architecture.
 
+This workflow also includes a ChIP-seq pipeline (FASTA -> BAM -> bigWig) + visualisation, skip these steps if required.
+
 workflow: <br>
 1 -	Data Acquisition and Selection - [pipeline_scripts] & [data_folder] <br>
 2 -	ChIP-seq Pipeline - [pipeline_scripts & [data_folder] <br>
