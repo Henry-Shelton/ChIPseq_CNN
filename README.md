@@ -2,24 +2,97 @@
 <p style="color:red",  font-size:2.5em>[Currently a WIP as of 29/08/23]</p>
 
 
-Detailed docs can be found in paper/supplementary data [M&M]:
+# Project Title
 
 workflow: <br>
-1 -	Data Acquisition and Selection <br>
-2 -	ChIP-seq Pipeline <br>
-3 -	Peak calling <br>
-4 -	EDA, Prediction and Visualisation of TFBMs <br>
-5 -	Functional Analysis & Motif Discovery <br>
-6 -	CNN Data Preprocessing <br>
-7 -	CNN Model Architecture <br>
-8 -	Evaluation, Loss Function and Peak scoring<br>
-9 -	CNN Training<br>
-10 - Hyperparameter Optimisation<br>
-11 - CNN Peak Calling<br>
-12 - Comparative Analysis<br>
-RESULTS<br>
+1 -	Data Acquisition and Selection - [pipeline_scripts] & [data_folder] <br>
+2 -	ChIP-seq Pipeline - [pipeline_scripts & [data_folder] <br>
+3 -	Peak calling (MACS2) - [pipeline_scripts] & [data_folder] <br>
+4 -	EDA, Prediction and Visualisation of TFBMs - [pipeline_scripts] & [data_folder] <br>
+5 -	Functional Analysis & Motif Discovery - [pipeline_scripts] & [data_folder] <br>
+6 -	CNN Data Preprocessing - [CNN_peak_prediction/preprocessing] (preproc.py) <br>
+7 -	CNN Model Architecture - [CNN_peak_prediction/buildmodel] (definemodel.py) <br>
+8 -	Evaluation, Loss Function and Peak scoring - [CNN_peak_prediction/peakcalling] (buildmodel.py) <br>
+9 -	CNN Training - [CNN_peak_prediction] (buildmodel.py OR callpeaks.py) <br>
+10 - Hyperparameter Optimisation - [CNN_peak_prediction/buildmodel] (hyperparameters.py) <br>
+11 - CNN Peak Calling - [CNN_peak_prediction/peakcalling] (callpeaks.py) <br>
+11.5 - Evaluation - [CNN_peak_prediction/outputs] <br>
+12 - Comparative Analysis - [data_folder] <br>
+
+Detailed documentation can be found in Section 3 (Methodology)
+
+## Description
+
+WIP
+
+## Getting Started
+
+WIP
+
+### Dependencies
+
+* pipeline_scripts prerequisites can be found within the shell scripts (1-5, 12), these were designed for implementation on Linux
+* The CNN python prerequisites + versions can be found within CNN_peak_prediction/requirements.txt (6-11)
+* This pipeline and the python scripts were designs to run on a Linux terminal, however these should be compatible with any python interpreter
+
+### Installing (WIP)
+
+* Shell scripts require the an array of modules, these depend on the individual job
+* Note: samtools/htslib packages need to be manually installed for the cython scripts within the callpeaks.py
+
+### Executing program
+
+* The ChIP-seq pipeline shell scripts are to be ran in the order as listed
+1_fetch&QC.sh
+1_multiqc.sh
+2_trim.sh
+3_bowtie_alignment.sh
+3_bt2-builder.sh
+5_samtools_sort_index.sh
+6_macs.sh
+7_0_deeptools_bamCoverage.sh
+7_1_deeptools_bamcompare_normalisation.sh
+7_2_1_deeptools_computematrix_normreps.sh
+7_2_deeptools_comparematrix.sh
+7_3_1_deeptools_plotprofile_NORM.sh
+7_3_deeptools_plotprofile.sh
+7_4_deeptools_headmap.sh
+7_5_deeptools_QC.sh
+7_6_2_deeptools_QC_PCR.sh
+7_6_deeptools_QC_plotcorrlation.sh
+8_motif_discovery_prep.sh
+
+* The CNN scripts can be copied and individually used at each stage by running >python [script]
+* These tasks should be executed in the general order as outlined below, ensure all prerequisite data is made available and modules are loaded:
+```
+0 - this part of the project was run virtualenv, create + activate this if required
+0 - preproc.py, formatting.py, label_preproc.py (preprocessing scripts) <br>
+0 - hyperparameters.py (does not need to be ran - optimise these) <br>
+0 - definemodel.py (does not need to be ran) <br>
+1 -	buildmodel.py (run for training evaluation) <br>
+2 - cythonation scripts need to be ran here to link C scripts - refer to CNN_Peaks github
+3 - callpeaks.py (run for training + testing) (ensure test data is available) (may have to point directory to correct libraries if errors) <br>
+4 - errorCall.py - for evaluation of CNN rpedictions (ensure you have test label data)
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+Many of the errors I ran into have been put into print statements, a common reoccuring error happens during callpeaks.py the first time its ran due to a linking error to the C script htslib library, to fix: LD_LIBRARY_PATH=/bamdepth/htslib_1_9/
+
+Other errors that could occur could be due to incompatible libraries / module versions
+```
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [CNN_Peaks](https://github.com/odb9402/CNNPeaks)
+* [LanceOTron](https://github.com/LHentges/LanceOtron)
 
 -----------------------
+
+## Walkthrough
 
 # [1] preprocessing data (bioinfo pipeline)
 
