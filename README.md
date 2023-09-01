@@ -69,20 +69,35 @@ WIP
 
 * The CNN scripts can be copied and individually used at each stage by running >python [script]
 * These tasks should be executed in the general order as outlined below, ensure all prerequisite data is made available and modules are loaded:
+
+Recommended to run the proejct in a virtual environment, create + activate this if required, install requirements.txt
+
+Preprocessing python scripts
 ```
-0 - this part of the project was run virtualenv, create + activate this if required, install requirements.txt
-0 - preproc.py, formatting.py, label_preproc.py (preprocessing scripts) <br>
-0 - hyperparameters.py (does not need to be ran [called in buildmodel/callpeaks] - optimise as required) <br>
-0 - definemodel.py (does not need to be ran [called in buildmodel/callpeaks]) <br>
-1 -	buildmodel.py (run for training evaluation) <br>
+preproc.py, formatting.py, label_preproc.py
+```
+0 - (the following do not need to be ran [called in buildmodel/callpeaks] - just optimise as required)
+```
+hyperparameters.py
+definemodel.py
+```
+1 -	(run for training evaluation)
+```
+buildmodel.py
+```
 2 - cythonation scripts need to be ran here to link C scripts - refer to CNN_Peaks github
-3 - callpeaks.py (run for training + testing) (ensure test data is available) (may have to point directory to correct libraries if errors) <br>
-4 - errorCall.py - for evaluation of CNN rpedictions (ensure you have test label data)
+3 - (run for training + testing) (ensure test data is available) (may have to point directory to correct libraries if errors) <br>
+```
+callpeaks.py
+```
+4 - for evaluation of CNN rpedictions (ensure you have test label data)
+```
+errorCall.py
 ```
 
 ## Help
 
-Any advise for common problems or issues.
+Advise for common problems or issues:
 ```
 Many of the errors I ran into have been put into print statements, a common reoccuring error happens during callpeaks.py the first time its ran due to a linking error to the C script htslib library, to fix: LD_LIBRARY_PATH=/bamdepth/htslib_1_9/
 
