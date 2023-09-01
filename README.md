@@ -44,7 +44,6 @@ Detailed documentation can be found in Section 3 (Methodology)
    - 1_multiqc.sh
    - 2_trim.sh
    - 3_bowtie_alignment.sh
-   - 3_bt2-builder.sh
    - 5_samtools_sort_index.sh
    - 6_macs.sh
    - 7_0_deeptools_bamCoverage.sh
