@@ -1,27 +1,25 @@
-
-<p style="color:red",  font-size:2.5em>[Currently a WIP as of 29/08/23]</p>
-
-
 # CNN Framework to train and test models on ChIP-seq datasets
 
 CNN-Peaks published model is no longer available, hindering its use as a tool for novel models to benchmark against. To try and solve this problem, I have modified the original framework down to a few python scripts for people to build form themselves. This is a "lite" version of CNN_peaks, enabling the model to run using a single Python script and allowing for complete modification of the training/test data and core architecture.
 
 This pipeline also includes a ChIP-seq pipeline (FASTA -> BAM -> bigWig) + visualisation, skip these steps if required.
 
+<p style="color:red",  font-size:2.5em>[Currently a WIP as of 29/08/23]</p>
+
 Workflow: <br>
-1 -	Data Acquisition and Selection - [pipeline_scripts] & [data_folder] <br>
-2 -	ChIP-seq Pipeline - [pipeline_scripts & [data_folder] <br>
-3 -	Peak calling (MACS2) - [pipeline_scripts] & [data_folder] <br>
-4 -	EDA, Prediction and Visualisation of TFBMs - [pipeline_scripts] & [data_folder] <br>
-5 -	Functional Analysis & Motif Discovery - [pipeline_scripts] & [data_folder] <br>
-6 -	CNN Data Preprocessing - [CNN_peak_prediction/preprocessing] (preproc.py) <br>
-7 -	CNN Model Architecture - [CNN_peak_prediction/buildmodel] (definemodel.py) <br>
-8 -	Evaluation, Loss Function and Peak scoring - [CNN_peak_prediction/peakcalling] (buildmodel.py) <br>
-9 -	CNN Training - [CNN_peak_prediction] (buildmodel.py OR callpeaks.py) <br>
-10 - Hyperparameter Optimisation - [CNN_peak_prediction/buildmodel] (hyperparameters.py) <br>
-11 - CNN Peak Calling - [CNN_peak_prediction/peakcalling] (callpeaks.py) <br>
-11.5 - Evaluation - [CNN_peak_prediction/outputs] <br>
-12 - Comparative Analysis - [data_folder] <br>
+1 -	Data Acquisition and Selection - _[pipeline_scripts] & [data_folder]_ <br>
+2 -	ChIP-seq Pipeline - _[pipeline_scripts & [data_folder]_ <br>
+3 -	Peak calling (MACS2) - _[pipeline_scripts] & [data_folder]_ <br>
+4 -	EDA, Prediction and Visualisation of TFBMs - _[pipeline_scripts] & [data_folder]_ <br>
+5 -	Functional Analysis & Motif Discovery - _[pipeline_scripts] & [data_folder]_ <br>
+6 -	CNN Data Preprocessing - _[CNN_peak_prediction/preprocessing] **preproc.py)**_ <br>
+7 -	CNN Model Architecture - _[CNN_peak_prediction/buildmodel] **(definemodel.py)**_ <br>
+8 -	Evaluation, Loss Function and Peak scoring - _[CNN_peak_prediction/peakcalling] **(buildmodel.py)**_ <br>
+9 -	CNN Training - _[CNN_peak_prediction] **(buildmodel.py OR callpeaks.py)**_ <br>
+10 - Hyperparameter Optimisation - _[CNN_peak_prediction/buildmodel] **(hyperparameters.py)**_ <br>
+11 - CNN Peak Calling - _[CNN_peak_prediction/peakcalling] **(callpeaks.py)**_ <br>
+11.5 - Evaluation - _[CNN_peak_prediction/outputs] **(errorCall.py)**_ <br>
+12 - Comparative Analysis - _[data_folder]_ <br>
 
 Detailed documentation can be found in Section 3 (Methodology)
 
