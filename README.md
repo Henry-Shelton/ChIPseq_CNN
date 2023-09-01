@@ -7,6 +7,24 @@ This pipeline also includes a ChIP-seq pipeline (FASTA -> BAM -> bigWig) + visua
 <p style="color:red",  font-size:2.5em>[Currently a WIP as of 29/08/23]</p>
 
 Workflow: <br>
+
+| Step        | Info           | Location | Script |
+| ------------- |:-------------:| -----:| -----:|
+| 1 | Data Acquisition and Selection | - _[pipeline_scripts] & [data_folder]_ | .sh |
+| 2 | ChIP-seq Pipeline | _[pipeline_scripts & [data_folder]_ | .sh |
+| 3 | Peak calling (MACS2) | _[pipeline_scripts] & [data_folder]_ | .sh |
+| 4 | EDA, Prediction and Visualisation of TFBMs | _[pipeline_scripts] & [data_folder]_ | .sh |
+| 5 | Functional Analysis & Motif Discovery | _[pipeline_scripts] & [data_folder]_ | .sh |
+| 6 | CNN Data Preprocessing | _[CNN_peak_prediction/preprocessing]_ | **preproc.py)** |
+| 7 | CNN Model Architecture | _[CNN_peak_prediction/buildmodel]_ | **(definemodel.py)** |
+| 8 | Evaluation, Loss Function and Peak scoring | _[CNN_peak_prediction/peakcalling]_ |  **(buildmodel.py)** |
+| 9 | CNN Training | _[CNN_peak_prediction]_ | **(buildmodel.py OR callpeaks.py)** |
+| 10 | Hyperparameter Optimisation | _[CNN_peak_prediction/buildmodel]_ | **(hyperparameters.py)** |
+| 11 | CNN Peak Calling | _[CNN_peak_prediction/peakcalling]_ | **(callpeaks.py)** |
+| 11.5 | Evaluation | _[CNN_peak_prediction/outputs]_ | **(errorCall.py)** |
+| 12 | Comparative Analysis | _[data_folder]_ | .sh |
+
+
 1 -	Data Acquisition and Selection - _[pipeline_scripts] & [data_folder]_ <br>
 2 -	ChIP-seq Pipeline - _[pipeline_scripts & [data_folder]_ <br>
 3 -	Peak calling (MACS2) - _[pipeline_scripts] & [data_folder]_ <br>
