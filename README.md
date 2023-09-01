@@ -26,14 +26,6 @@ Workflow: <br>
 
 Detailed documentation can be found in Section 3 (Methodology)
 
-## Description
-
-WIP
-
-## Getting Started
-
-WIP
-
 ### Dependencies
 
 * pipeline_scripts prerequisites can be found within the shell scripts (1-5, 12), these were designed for implementation on Linux
