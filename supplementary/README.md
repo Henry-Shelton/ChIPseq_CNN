@@ -2,7 +2,7 @@
 
 *Ref* | *Image* | *Info* |
 |:--|:--:|:--|
-1 |<img src="pics/1.png">| 
+1 |<img src="pics/1.png" width="400" height="200">| 
 1 |<img src="pics/2.png">|
 2 |<img src="pics/3.png">|
 3 |<img src="pics/4.png">|
