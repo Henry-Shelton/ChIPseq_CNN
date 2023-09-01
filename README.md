@@ -93,6 +93,7 @@ Other errors that could occur could be due to incompatible libraries / module ve
 Inspiration, code snippets, etc.
 * [CNN_Peaks](https://github.com/odb9402/CNNPeaks)
 * [LanceOTron](https://github.com/LHentges/LanceOtron)
+* [GoogLeNet](https://github.com/conan7882/GoogLeNet-Inception)
 
 ## To do
 * Update codebase to TF2 or PyTorch
