@@ -8,20 +8,20 @@ This pipeline also includes a ChIP-seq pipeline (FASTA -> BAM -> bigWig) + visua
 
 Workflow: <br>
 
-| Step        | Info           | Location | Script |
-| ------------- |:-------------:| -----:| -----:|
+| Step | Info | Location | Script |
+| :-------------: |:-------------:| :-------------: | :-------------: |
 | 1 | Data Acquisition and Selection | _/pipeline_scripts & /data_folder_ | **.sh** |
 | 2 | ChIP-seq Pipeline | _/pipeline_scripts & /data_folder_ | **.sh** |
 | 3 | Peak calling (MACS2) | _/pipeline_scripts & /data_folder_ | **.sh** |
 | 4 | EDA, Prediction and Visualisation of TFBMs | _/pipeline_scripts & /data_folder_ | **.sh** |
 | 5 | Functional Analysis & Motif Discovery | _/pipeline_scripts & /data_folder_ | **.sh** |
-| 6 | CNN Data Preprocessing | _[CNN_peak_prediction/preprocessing]_ | **preproc.py** |
-| 7 | CNN Model Architecture | _[CNN_peak_prediction/buildmodel]_ | **definemodel.py** |
-| 8 | Evaluation, Loss Function and Peak scoring | _[CNN_peak_prediction/peakcalling]_ |  **buildmodel.py** |
-| 9 | CNN Training | _[CNN_peak_prediction]_ | **buildmodel.py OR callpeaks.py** |
-| 10 | Hyperparameter Optimisation | _[CNN_peak_prediction/buildmodel]_ | **hyperparameters.py** |
-| 11 | CNN Peak Calling | _[CNN_peak_prediction/peakcalling]_ | **callpeaks.py** |
-| 11.5 | Evaluation | _[CNN_peak_prediction/outputs]_ | **errorCall.py** |
+| 6 | CNN Data Preprocessing | _/CNN_peak_prediction/preprocessing_ | **preproc.py** |
+| 7 | CNN Model Architecture | _/CNN_peak_prediction/buildmodel_ | **definemodel.py** |
+| 8 | Evaluation, Loss Function and Peak scoring | _/CNN_peak_prediction/peakcalling_ |  **buildmodel.py** |
+| 9 | CNN Training | _/CNN_peak_prediction_ | **buildmodel.py OR callpeaks.py** |
+| 10 | Hyperparameter Optimisation | _/CNN_peak_prediction/buildmodel_ | **hyperparameters.py** |
+| 11 | CNN Peak Calling | _/CN_peak_prediction/peakcalling_ | **callpeaks.py** |
+| 11.5 | Evaluation | _/CNN_peak_prediction/outputs_ | **errorCall.py** |
 | 12 | Comparative Analysis | _/pipeline_scripts & /data_folder_ | **.sh** |
 
 Detailed documentation can be found in Section 3 (Methodology)
